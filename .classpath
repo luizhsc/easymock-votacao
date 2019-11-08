@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test">
+		<attributes>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="bibliotecas/easymock-3.0.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/easymockclassextension-3.0.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmartisi/Downloads/cglib-2.1.95.jar/cglib-2.1.95.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mmartisi/Downloads/asm-all-3.3.1.jar/asm-all-3.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
